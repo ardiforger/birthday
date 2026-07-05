@@ -1,10 +1,5 @@
 # Birthday-Website
 
-## Sekilas
-
-![Screencapture](/img/Screencapture1.png)
-![Screencapture](/img/Screencapture2.png)
-
 Website Ulang Tahun
 dibuat untuk seseorang yang sedang berulang tahun. 
 Pada website ini ditujukan untuk Wanita bernama Shela. 
@@ -21,5 +16,3 @@ Berisikan Galeri Foto, Ucapan Selamat, Doa, dll.
 
 ## Cara menjalankan website
 Buka file `index.html`
-
-&copy; 2024 - Ardi Wirya
