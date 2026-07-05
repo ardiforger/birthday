@@ -1,9 +1,6 @@
-# Birthday-Website
+# Birthday Website
 
-Website Ulang Tahun
-dibuat untuk seseorang yang sedang berulang tahun. 
-Pada website ini ditujukan untuk Wanita bernama Shela. 
-Berisikan Galeri Foto, Ucapan Selamat, Doa, dll.
+Untuk seseorang yang sedang berulang tahun. Berisikan galeri foto, ucapan selamat, doa, dll.
 
 ## Halaman-Halaman pada Birthday-Website :
 * Home Page
